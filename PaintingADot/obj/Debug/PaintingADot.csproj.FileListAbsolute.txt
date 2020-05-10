@@ -1,0 +1,9 @@
+D:\Labs\3DMathsStudy\PaintingADot\bin\Debug\PaintingADot.exe.config
+D:\Labs\3DMathsStudy\PaintingADot\bin\Debug\PaintingADot.exe
+D:\Labs\3DMathsStudy\PaintingADot\bin\Debug\PaintingADot.pdb
+D:\Labs\3DMathsStudy\PaintingADot\obj\Debug\PaintingADot.csprojAssemblyReference.cache
+D:\Labs\3DMathsStudy\PaintingADot\obj\Debug\PaintingADot.Properties.Resources.resources
+D:\Labs\3DMathsStudy\PaintingADot\obj\Debug\PaintingADot.csproj.GenerateResource.cache
+D:\Labs\3DMathsStudy\PaintingADot\obj\Debug\PaintingADot.exe
+D:\Labs\3DMathsStudy\PaintingADot\obj\Debug\PaintingADot.pdb
+D:\Labs\3DMathsStudy\PaintingADot\obj\Debug\PaintingADot.frmLine.resources

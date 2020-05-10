@@ -1,0 +1,9 @@
+D:\Labs\3DMathsStudy\Exercise\bin\Debug\Exercise.exe.config
+D:\Labs\3DMathsStudy\Exercise\bin\Debug\Exercise.exe
+D:\Labs\3DMathsStudy\Exercise\bin\Debug\Exercise.pdb
+D:\Labs\3DMathsStudy\Exercise\obj\Debug\Exercise.csprojAssemblyReference.cache
+D:\Labs\3DMathsStudy\Exercise\obj\Debug\Exercise.Form1.resources
+D:\Labs\3DMathsStudy\Exercise\obj\Debug\Exercise.Properties.Resources.resources
+D:\Labs\3DMathsStudy\Exercise\obj\Debug\Exercise.csproj.GenerateResource.cache
+D:\Labs\3DMathsStudy\Exercise\obj\Debug\Exercise.exe
+D:\Labs\3DMathsStudy\Exercise\obj\Debug\Exercise.pdb

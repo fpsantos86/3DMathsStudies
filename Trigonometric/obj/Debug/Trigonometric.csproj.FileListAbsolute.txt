@@ -1,0 +1,9 @@
+D:\Labs\3DMathsStudy\Trigonometric\bin\Debug\Trigonometric.exe.config
+D:\Labs\3DMathsStudy\Trigonometric\bin\Debug\Trigonometric.exe
+D:\Labs\3DMathsStudy\Trigonometric\bin\Debug\Trigonometric.pdb
+D:\Labs\3DMathsStudy\Trigonometric\obj\Debug\Trigonometric.Form1.resources
+D:\Labs\3DMathsStudy\Trigonometric\obj\Debug\Trigonometric.Properties.Resources.resources
+D:\Labs\3DMathsStudy\Trigonometric\obj\Debug\Trigonometric.csproj.GenerateResource.cache
+D:\Labs\3DMathsStudy\Trigonometric\obj\Debug\Trigonometric.exe
+D:\Labs\3DMathsStudy\Trigonometric\obj\Debug\Trigonometric.pdb
+D:\Labs\3DMathsStudy\Trigonometric\obj\Debug\Trigonometric.csprojAssemblyReference.cache

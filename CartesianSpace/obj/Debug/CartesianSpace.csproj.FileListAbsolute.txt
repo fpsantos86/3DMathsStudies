@@ -1,0 +1,9 @@
+D:\Labs\3DMathsStudy\CartesianSpace\bin\Debug\CartesianSpace.exe.config
+D:\Labs\3DMathsStudy\CartesianSpace\bin\Debug\CartesianSpace.exe
+D:\Labs\3DMathsStudy\CartesianSpace\bin\Debug\CartesianSpace.pdb
+D:\Labs\3DMathsStudy\CartesianSpace\obj\Debug\CartesianSpace.frmCartesian.resources
+D:\Labs\3DMathsStudy\CartesianSpace\obj\Debug\CartesianSpace.Properties.Resources.resources
+D:\Labs\3DMathsStudy\CartesianSpace\obj\Debug\CartesianSpace.csproj.GenerateResource.cache
+D:\Labs\3DMathsStudy\CartesianSpace\obj\Debug\CartesianSpace.exe
+D:\Labs\3DMathsStudy\CartesianSpace\obj\Debug\CartesianSpace.pdb
+D:\Labs\3DMathsStudy\CartesianSpace\obj\Debug\CartesianSpace.csprojAssemblyReference.cache

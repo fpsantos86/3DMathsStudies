@@ -1,0 +1,9 @@
+D:\Labs\3DMathsStudy\CircleCalc\bin\Debug\CircleCalc.exe.config
+D:\Labs\3DMathsStudy\CircleCalc\bin\Debug\CircleCalc.exe
+D:\Labs\3DMathsStudy\CircleCalc\bin\Debug\CircleCalc.pdb
+D:\Labs\3DMathsStudy\CircleCalc\obj\Debug\CircleCalc.csprojAssemblyReference.cache
+D:\Labs\3DMathsStudy\CircleCalc\obj\Debug\CircleCalc.Form1.resources
+D:\Labs\3DMathsStudy\CircleCalc\obj\Debug\CircleCalc.Properties.Resources.resources
+D:\Labs\3DMathsStudy\CircleCalc\obj\Debug\CircleCalc.csproj.GenerateResource.cache
+D:\Labs\3DMathsStudy\CircleCalc\obj\Debug\CircleCalc.exe
+D:\Labs\3DMathsStudy\CircleCalc\obj\Debug\CircleCalc.pdb
