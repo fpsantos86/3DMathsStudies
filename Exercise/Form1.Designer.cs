@@ -143,7 +143,7 @@
 			this.Controls.Add(this.button3);
 			this.Controls.Add(this.button1);
 			this.Name = "Form1";
-			this.Text = "Form1";
+			this.Text = "Sample Cartesian Space";
 			this.Load += new System.EventHandler(this.Form1_Load);
 			this.statusStrip1.ResumeLayout(false);
 			this.statusStrip1.PerformLayout();
